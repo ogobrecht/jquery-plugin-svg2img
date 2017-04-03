@@ -1,15 +1,17 @@
 # License
 
-## svg2img jQuery plugin - MIT license
+## jQuery Plugin svg2img - MIT License
 Copyright © 2016-2017 [Ottmar Gobrecht][1].
 
-## FileSaver.js - MIT license
+## Used Libraries
+
+### FileSaver.js - MIT License
 Copyright © 2016 [Eli Grey][2].
 
-## canvas-toBlob.js - MIT license
+### canvas-toBlob.js - MIT License
 Copyright © 2016 [Eli Grey][2] and [Devin Samarin][3].
 
-## Blob.js - MIT license
+### Blob.js - MIT License
 Copyright © 2014 [Eli Grey][2].
 
 ## MIT license
