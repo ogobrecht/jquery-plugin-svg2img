@@ -1,0 +1,37 @@
+{
+    "name": "svg2img",
+    "version": "1.0.0",
+    "description": "Convert browser inline SVG's to standalone image files including all used CSS definitions",
+    "main": "svg2img.min.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ogobrecht/jquery-plugin-svg2img.git"
+    },
+    "keywords": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "svg",
+        "image",
+        "export"
+    ],
+    "author": "Ottmar Gobrecht",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ogobrecht/jquery-plugin-svg2img/issues"
+    },
+    "homepage": "https://github.com/ogobrecht/jquery-plugin-svg2img",
+    "devDependencies": {
+        "grunt": "^1.0.1",
+        "grunt-contrib-clean": "^1.0.0",
+        "grunt-contrib-concat": "^1.0.1",
+        "grunt-contrib-copy": "^1.0.0",
+        "grunt-contrib-jshint": "^1.1.0",
+        "grunt-contrib-uglify": "^2.2.0",
+        "grunt-contrib-watch": "^1.0.0",
+        "grunt-notify": "^0.4.5",
+        "jshint": "^2.9.4"
+    }
+}
