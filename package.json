@@ -1,6 +1,6 @@
 {
     "name": "svg2img",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Convert browser inline SVG's to standalone image files including all used CSS definitions",
     "main": "svg2img.min.js",
     "scripts": {

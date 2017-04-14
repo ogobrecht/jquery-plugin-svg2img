@@ -34,8 +34,6 @@ module.exports = function(grunt) {
             dist: {
                 src: [
                     "src/svg2img.js",
-                    "lib/Blob.js/Blob.js",
-                    "lib/canvas-toBlob.js/canvas-toBlob.js",
                     "lib/FileSaver.js/FileSaver.js"
                 ],
                 dest: "svg2img.js"
