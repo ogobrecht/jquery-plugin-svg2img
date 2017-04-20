@@ -1,5 +1,5 @@
 {
-    "name": "svg2img",
+    "name": "jquery-plugin-svg2img",
     "version": "1.0.1",
     "description": "Convert inline SVGs to standalone SVG image files without loosing styles",
     "main": "svg2img.min.js",
